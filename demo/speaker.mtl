@@ -1,0 +1,51 @@
+# Created with Anim8or 0.97d beta
+# Object "object01":
+
+newmtl speka1
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1.0
+Ns 752.6
+map_Kd speak1.BMP
+
+newmtl speak5
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1.0
+Ns 752.6
+map_Kd speak5.bmp
+
+newmtl speak2
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1.0
+Ns 752.6
+map_Kd speak2.bmp
+
+newmtl material01
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1.0
+Ns 752.6
+map_Kd speak3.bmp
+
+newmtl speak4
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1.0
+Ns 752.6
+map_Kd speak4.bmp
+
+newmtl material02
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1.0
+Ns 752.6
+map_Kd speak6.bmp
+
